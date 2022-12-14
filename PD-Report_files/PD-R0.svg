@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="538mm" xmlns="http://www.w3.org/2000/svg" height="293mm" version="1.1" viewBox="0 0 2036 1110" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <a target="_parent" xlink:href="PD-R3.htm#1">
+      <polyline fill="none" points="1363,435 1363,336" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="1363,336 1366,349 1360,349" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1371" y="376" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SVMXC_ID = DEVICE_FK</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R4.htm#1">
+      <path d="M1377,585 L1277,585 A8,8 0 0,1 1269,577 L1269,336" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="1269,336 1272,349 1266,349" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1268" y="543" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SVMXC_ID = DEVICE_FK</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R5.htm#1">
+      <path d="M497,574 L849,574 A8,8 0 0,0 857,566 L857,302" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="857,302 860,315 854,315" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="849" y="411" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">ID = LOCATION_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R6.htm#1">
+      <path d="M353,535 L353,377 A8,8 0 0,1 361,369 L483,369" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="483,369 469,372 469,366" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="341" y="406" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = EQUIPMENT_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R7.htm#1">
+      <path d="M594,175 L594,268 A8,8 0 0,1 586,276 L439,276 A8,8 0 0,0 431,284 L431,363" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M431,374 L431,401 A8,8 0 0,0 439,409 L491,409 A8,8 0 0,0 499,401 L499,381" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M431,374 A5,5 0 0,0 436,369" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="436" x2="436" y1="369" y2="369" stroke="#800040" stroke-width="1"/>
+      <path d="M436,369 A5,5 0 0,0 431,363" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="594,175 597,188 591,188" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="645" y="230" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SERVICE_TEAM = WORKCENTER_FK_SERVICE_TEAM</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R8.htm#1">
+      <polyline fill="none" points="640,381 640,568" stroke="#800040" stroke-width="1"/>
+      <path d="M640,579 L640,695 A8,8 0 0,0 648,703 L774,703 A8,8 0 0,1 782,711 L782,731" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M640,579 A5,5 0 0,0 645,574" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="645" x2="645" y1="574" y2="574" stroke="#800040" stroke-width="1"/>
+      <path d="M645,574 A5,5 0 0,0 640,568" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="640,381 643,394 637,394" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="657" y="702" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = INSTALLED_PRODUCT_FK_EQUIPMENT_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R9.htm#1">
+      <polyline fill="none" points="607,381 607,568" stroke="#800040" stroke-width="1"/>
+      <path d="M607,579 L607,613 A8,8 0 0,1 599,621 L533,621 A8,8 0 0,0 525,629 L525,850" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M607,579 A5,5 0 0,0 612,574" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="612" x2="612" y1="574" y2="574" stroke="#800040" stroke-width="1"/>
+      <path d="M612,574 A5,5 0 0,0 607,568" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="607,381 610,394 604,394" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="567" y="623" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = INSTALLEDPRODUCT_FK_EQUIPMENT_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R10.htm#1">
+      <path d="M693,381 L693,479 A8,8 0 0,0 701,487 L852,487" fill="none" stroke="#800040" stroke-width="1"/>
+      <polyline fill="none" points="863,487 931,487" stroke="#800040" stroke-width="1"/>
+      <path d="M863,487 A5,5 0 0,0 857,482" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="857" x2="857" y1="482" y2="482" stroke="#800040" stroke-width="1"/>
+      <path d="M857,482 A5,5 0 0,0 852,487" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="693,381 696,394 690,394" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="818" y="481" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = TARGET</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R11.htm#1">
+      <polyline fill="none" points="749,381 749,482" stroke="#800040" stroke-width="1"/>
+      <path d="M749,493 L749,502 A8,8 0 0,0 757,510 L852,510" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M749,493 A5,5 0 0,0 754,487" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="754" x2="754" y1="487" y2="487" stroke="#800040" stroke-width="1"/>
+      <path d="M754,487 A5,5 0 0,0 749,482" fill="none" stroke="#800040" stroke-width="1"/>
+      <polyline fill="none" points="863,510 931,510" stroke="#800040" stroke-width="1"/>
+      <path d="M863,510 A5,5 0 0,0 857,505" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="857" x2="857" y1="505" y2="505" stroke="#800040" stroke-width="1"/>
+      <path d="M857,505 A5,5 0 0,0 852,510" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="749,381 752,394 746,394" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="827" y="525" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = SOURCE</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R12.htm#1">
+      <path d="M1241,611 L1241,433 A8,8 0 0,1 1249,425 L1264,425" fill="none" stroke="#800040" stroke-width="1"/>
+      <polyline fill="none" points="1274,425 1358,425" stroke="#800040" stroke-width="1"/>
+      <path d="M1274,425 A5,5 0 0,0 1269,420" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="1269" x2="1269" y1="420" y2="420" stroke="#800040" stroke-width="1"/>
+      <path d="M1269,420 A5,5 0 0,0 1264,425" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M1368,425 L1440,425 A8,8 0 0,0 1448,417 L1448,336" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M1368,425 A5,5 0 0,0 1363,420" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="1363" x2="1363" y1="420" y2="420" stroke="#800040" stroke-width="1"/>
+      <path d="M1363,420 A5,5 0 0,0 1358,425" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="1241,611 1238,598 1244,598" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1476" y="398" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SVMXC_ID = FUNCTIONAL_LOCATION_FK</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R13.htm#1">
+      <path d="M1690,651 L1690,293 A8,8 0 0,0 1682,285 L1490,285" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="1490,285 1503,282 1503,288" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1695" y="413" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SVMXC_ID = DEVICE_FK</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R14.htm#1">
+      <polyline fill="none" points="1665,829 1665,704" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="1665,704 1668,717 1662,717" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1676" y="769" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SVMXC_ID = PARENT_SVMXC_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R15.htm#1">
+      <polyline fill="none" points="521,457 521,381" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="521,381 524,394 518,394" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="523" y="434" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = EQUIPMENT_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R16.htm#1">
+      <polyline fill="none" points="719,381 719,482" stroke="#800040" stroke-width="1"/>
+      <polyline fill="none" points="719,493 719,568" stroke="#800040" stroke-width="1"/>
+      <path d="M719,493 A5,5 0 0,0 724,487" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="724" x2="724" y1="487" y2="487" stroke="#800040" stroke-width="1"/>
+      <path d="M724,487 A5,5 0 0,0 719,482" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M719,579 L719,679 A8,8 0 0,0 727,687 L827,687 A8,8 0 0,0 835,679 L835,667" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M719,579 A5,5 0 0,0 724,574" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="724" x2="724" y1="574" y2="574" stroke="#800040" stroke-width="1"/>
+      <path d="M724,574 A5,5 0 0,0 719,568" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="719,381 722,394 716,394" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="723" y="543" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = EQUIPMENT_ID_FK</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R17.htm#1">
+      <polyline fill="none" points="778,320 852,320" stroke="#800040" stroke-width="1"/>
+      <path d="M863,320 L1053,320 A8,8 0 0,0 1061,312 L1061,239" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M863,320 A5,5 0 0,0 857,315" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="857" x2="857" y1="315" y2="315" stroke="#800040" stroke-width="1"/>
+      <path d="M857,315 A5,5 0 0,0 852,320" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="778,320 791,317 791,323" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1056" y="301" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = EQUIPMENT_ID_FK</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R18.htm#1">
+      <polyline fill="none" points="483,323 436,323" stroke="#800040" stroke-width="1"/>
+      <path d="M425,323 L152,323 A8,8 0 0,0 144,331 L144,758" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M436,323 A5,5 0 0,0 431,317" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="431" x2="431" y1="317" y2="317" stroke="#800040" stroke-width="1"/>
+      <path d="M431,317 A5,5 0 0,0 425,323" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="483,323 469,326 469,320" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="137" y="379" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EQUIPMENT_ID = EQUIPMENT_ID_FK</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R19.htm#1">
+      <path d="M1232,294 L1198,294 A8,8 0 0,0 1190,302 L1190,505 A8,8 0 0,0 1198,513 L1235,513" fill="none" stroke="#800040" stroke-width="1"/>
+      <polyline fill="none" points="1246,513 1264,513" stroke="#800040" stroke-width="1"/>
+      <path d="M1246,513 A5,5 0 0,0 1241,508" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="1241" x2="1241" y1="508" y2="508" stroke="#800040" stroke-width="1"/>
+      <path d="M1241,508 A5,5 0 0,0 1235,513" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M1274,513 L1321,513 A8,8 0 0,1 1329,521 L1329,580" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M1274,513 A5,5 0 0,0 1269,508" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="1269" x2="1269" y1="508" y2="508" stroke="#800040" stroke-width="1"/>
+      <path d="M1269,508 A5,5 0 0,0 1264,513" fill="none" stroke="#800040" stroke-width="1"/>
+      <polyline fill="none" points="1329,591 1329,725" stroke="#800040" stroke-width="1"/>
+      <path d="M1329,591 A5,5 0 0,0 1335,585" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="1335" x2="1335" y1="585" y2="585" stroke="#800040" stroke-width="1"/>
+      <path d="M1335,585 A5,5 0 0,0 1329,580" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="1232,294 1219,297 1219,291" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1189" y="380" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SVMXC_ID = SVMXC_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R20.htm#1">
+      <path d="M1455,833 L1455,633 A8,8 0 0,1 1463,625 L1651,625 A8,8 0 0,0 1659,617 L1659,309 A8,8 0 0,0 1651,301 L1490,301" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="1490,301 1503,298 1503,304" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1458" y="685" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SVMXC_ID = SVMXC_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R21.htm#1">
+      <path d="M647,297 L647,282 A8,8 0 0,1 655,274 L798,274" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="798,274 785,277 785,271" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="698" y="266" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">ID = FUNCTIONAL_LOCATION</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R22.htm#1">
+      <polyline fill="none" points="914,275 1056,275" stroke="#800040" stroke-width="1"/>
+      <path d="M1067,275 L1152,275 A8,8 0 0,1 1160,283 L1160,611" fill="none" stroke="#800040" stroke-width="1"/>
+      <path d="M1067,275 A5,5 0 0,0 1061,270" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="1061" x2="1061" y1="270" y2="270" stroke="#800040" stroke-width="1"/>
+      <path d="M1061,270 A5,5 0 0,0 1056,275" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="914,275 928,272 928,278" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1158" y="442" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">ID = SAP_FUNCTIONAL_LOCATION_FK_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R23.htm#1">
+      <polyline fill="none" points="897,803 897,879" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="897,879 894,865 900,865" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="904" y="847" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">ACCOUNT_ID = LOCAL_ACCOUNT_ID_FK_ACCOUNT_ID</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R26.htm#1">
+      <path d="M1909,519 L1909,571 A8,8 0 0,1 1901,579 L1695,579" fill="none" stroke="#800040" stroke-width="1"/>
+      <polyline fill="none" points="1685,579 1664,579" stroke="#800040" stroke-width="1"/>
+      <path d="M1695,579 A5,5 0 0,0 1690,574" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="1690" x2="1690" y1="574" y2="574" stroke="#800040" stroke-width="1"/>
+      <path d="M1690,574 A5,5 0 0,0 1685,579" fill="none" stroke="#800040" stroke-width="1"/>
+      <polyline fill="none" points="1654,579 1632,579" stroke="#800040" stroke-width="1"/>
+      <path d="M1664,579 A5,5 0 0,0 1659,574" fill="none" stroke="#800040" stroke-width="1"/>
+      <line x1="1659" x2="1659" y1="574" y2="574" stroke="#800040" stroke-width="1"/>
+      <path d="M1659,574 A5,5 0 0,0 1654,579" fill="none" stroke="#800040" stroke-width="1"/>
+      <polygon fill="#800040" points="1909,519 1912,532 1906,532" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+      <text x="1909" y="589" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SVMXC_ID = TECHNICIAN_FK</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R44.htm#1">
+      <rect x="1232" y="266" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1232" y="266" fill="url(#Gradient1)" width="258" height="70" stroke="#804000" stroke-width="1"/>
+      <text x="1361" y="277" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_DEVICE</text>
+      <line x1="1232" x2="1490" y1="283" y2="283" stroke="#804000" stroke-width="1"/>
+      <text x="1237" y="293" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SVMXC_ID</text>
+      <text x="1237" y="306" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">FUNCTIONAL_LOCATION_FK</text>
+      <text x="1388" y="293" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1388" y="306" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nvarchar(18)</text>
+      <text x="1454" y="293" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1454" y="306" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R39.htm#1">
+      <rect x="483" y="297" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="483" y="297" fill="url(#Gradient2)" width="295" height="84" stroke="#804000" stroke-width="1"/>
+      <text x="630" y="308" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_EQUIPMENT</text>
+      <line x1="483" x2="778" y1="314" y2="314" stroke="#804000" stroke-width="1"/>
+      <text x="487" y="324" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">EQUIPMENT_ID</text>
+      <text x="487" y="337" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">FUNCTIONAL_LOCATION</text>
+      <text x="487" y="350" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">WORKCENTER_FK_SERVICE_TEAM</text>
+      <text x="487" y="363" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SALES_ORDER_ID</text>
+      <text x="487" y="376" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">CHARACTERISTIC</text>
+      <text x="674" y="324" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="674" y="337" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nvarchar(30)</text>
+      <text x="674" y="350" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nvarchar(80)</text>
+      <text x="674" y="363" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nvarchar(17)</text>
+      <text x="674" y="376" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">bigint</text>
+      <text x="740" y="324" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="740" y="337" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk2&gt;</text>
+      <text x="740" y="350" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk1&gt;</text>
+      <text x="740" y="363" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk3&gt;</text>
+      <text x="740" y="376" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk3&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R40.htm#1">
+      <rect x="334" y="850" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="334" y="850" fill="url(#Gradient3)" width="371" height="72" stroke="#804000" stroke-width="1"/>
+      <text x="519" y="861" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_INSTALLED_PRODUCT_BUSINESS_PARTNER</text>
+      <line x1="334" x2="705" y1="867" y2="867" stroke="#804000" stroke-width="1"/>
+      <text x="339" y="877" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">INSTALLEDPRODUCT_FK_EQUIPMENT_ID</text>
+      <text x="339" y="890" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">INSTALLED_PRODUCT_BUSINESS_PARTNER_ID</text>
+      <text x="339" y="903" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">FUNCTION_FK_FUNCTION_CODE</text>
+      <text x="339" y="916" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">COUNTER</text>
+      <text x="589" y="877" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(22)</text>
+      <text x="589" y="890" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(12)</text>
+      <text x="589" y="903" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(2)</text>
+      <text x="589" y="916" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">numeric(6,0)</text>
+      <text x="656" y="877" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk&gt;</text>
+      <text x="656" y="890" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="656" y="903" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="656" y="916" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R53.htm#1">
+      <rect x="369" y="457" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="369" y="457" fill="url(#Gradient4)" width="218" height="48" stroke="#804000" stroke-width="1"/>
+      <text x="478" y="468" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SYSTEM_STATUS_HISTORY</text>
+      <line x1="369" x2="587" y1="474" y2="474" stroke="#804000" stroke-width="1"/>
+      <text x="373" y="484" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">EQUIPMENT_ID</text>
+      <text x="373" y="497" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">RECORD_END_DATE</text>
+      <text x="485" y="484" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="485" y="497" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">datetime</text>
+      <text x="551" y="484" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk&gt;</text>
+      <text x="551" y="497" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R47.htm#1">
+      <rect x="1279" y="435" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1279" y="435" fill="url(#Gradient5)" width="320" height="59" stroke="#804000" stroke-width="1"/>
+      <text x="1439" y="446" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_INSTALLED_PRODUCT_BUSINESS_PARTNER</text>
+      <line x1="1279" x2="1599" y1="452" y2="452" stroke="#804000" stroke-width="1"/>
+      <text x="1283" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">ACCOUNT_FK</text>
+      <text x="1283" y="475" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">DEVICE_FK</text>
+      <text x="1283" y="488" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">PARTNER_FUNCTION</text>
+      <text x="1398" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1398" y="475" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1398" y="488" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(20)</text>
+      <text x="1464" y="462" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1464" y="475" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk&gt;</text>
+      <text x="1464" y="488" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R49.htm#1">
+      <rect x="1377" y="547" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1377" y="547" fill="url(#Gradient6)" width="255" height="64" stroke="#804000" stroke-width="1"/>
+      <text x="1504" y="558" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_INSTALLED_PRODUCT_WORKER</text>
+      <line x1="1377" x2="1632" y1="564" y2="564" stroke="#804000" stroke-width="1"/>
+      <text x="1381" y="574" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">DEVICE_FK</text>
+      <text x="1381" y="587" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">WORKER_ROLE</text>
+      <text x="1381" y="600" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">TECHNICIAN_FK</text>
+      <text x="1470" y="574" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1470" y="587" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(25)</text>
+      <text x="1470" y="600" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1536" y="574" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk1&gt;</text>
+      <text x="1536" y="587" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1536" y="600" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk2,fk3&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R37.htm#1">
+      <rect x="931" y="462" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="931" y="462" fill="url(#Gradient7)" width="199" height="84" stroke="#804000" stroke-width="1"/>
+      <text x="1030" y="473" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_DEVICE_RELATION</text>
+      <line x1="931" x2="1130" y1="479" y2="479" stroke="#804000" stroke-width="1"/>
+      <text x="936" y="489" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SOURCE</text>
+      <text x="936" y="502" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">TARGET</text>
+      <text x="936" y="515" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">TYPES</text>
+      <text x="936" y="528" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">VALID_FROM</text>
+      <text x="936" y="541" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">VALID_TO</text>
+      <text x="1010" y="489" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(20)</text>
+      <text x="1010" y="502" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(20)</text>
+      <text x="1010" y="515" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(6)</text>
+      <text x="1010" y="528" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">numeric(15,0)</text>
+      <text x="1010" y="541" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">numeric(15,0)</text>
+      <text x="1083" y="489" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk2&gt;</text>
+      <text x="1083" y="502" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk1&gt;</text>
+      <text x="1083" y="515" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1083" y="528" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1083" y="541" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R35.htm#1">
+      <rect x="225" y="657" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="225" y="657" fill="url(#Gradient8)" width="243" height="58" stroke="#804000" stroke-width="1"/>
+      <text x="346" y="668" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_COMMERCIAL_ORDER_OPTIONS</text>
+      <line x1="225" x2="468" y1="674" y2="674" stroke="#804000" stroke-width="1"/>
+      <text x="230" y="684" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SALES_ORDER_ID</text>
+      <text x="230" y="697" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">CHARACTERISTIC</text>
+      <text x="230" y="710" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">CHARACTERISTIC_VALUE</text>
+      <text x="368" y="684" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(17)</text>
+      <text x="368" y="697" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">bigint</text>
+      <text x="368" y="710" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(30)</text>
+      <text x="434" y="684" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="434" y="697" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="434" y="710" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R56.htm#1">
+      <rect x="244" y="1021" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="244" y="1021" fill="url(#Gradient9)" width="145" height="59" stroke="#804000" stroke-width="1"/>
+      <text x="316" y="1032" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_ZUENRICH</text>
+      <line x1="244" x2="389" y1="1038" y2="1038" stroke="#804000" stroke-width="1"/>
+      <text x="249" y="1048" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">VBELN</text>
+      <text x="249" y="1061" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">POSNR</text>
+      <text x="249" y="1074" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SEQNR</text>
+      <text x="293" y="1048" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(10)</text>
+      <text x="293" y="1061" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">numeric(6,0)</text>
+      <text x="293" y="1074" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(3)</text>
+      <text x="360" y="1048" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="360" y="1061" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="360" y="1074" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R46.htm#1">
+      <rect x="1007" y="611" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1007" y="611" fill="url(#Gradient10)" width="300" height="53" stroke="#804000" stroke-width="1"/>
+      <text x="1157" y="622" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_FUNCTIONAL_LOCATION</text>
+      <line x1="1007" x2="1307" y1="628" y2="628" stroke="#804000" stroke-width="1"/>
+      <text x="1012" y="638" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SVMXC_ID</text>
+      <text x="1012" y="651" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SAP_FUNCTIONAL_LOCATION_FK_ID</text>
+      <text x="1206" y="638" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1206" y="651" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nvarchar(30)</text>
+      <text x="1272" y="638" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1272" y="651" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R48.htm#1">
+      <rect x="1531" y="651" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient11" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1531" y="651" fill="url(#Gradient11)" width="269" height="53" stroke="#804000" stroke-width="1"/>
+      <text x="1665" y="662" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_INSTALLED_PRODUCT_WARRANTY</text>
+      <line x1="1531" x2="1800" y1="668" y2="668" stroke="#804000" stroke-width="1"/>
+      <text x="1535" y="678" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SVMXC_ID</text>
+      <text x="1535" y="691" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DEVICE_FK</text>
+      <text x="1600" y="678" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1600" y="691" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nvarchar(18)</text>
+      <text x="1666" y="678" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1666" y="691" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R50.htm#1">
+      <rect x="1221" y="725" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient12" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1221" y="725" fill="url(#Gradient12)" width="207" height="53" stroke="#804000" stroke-width="1"/>
+      <text x="1324" y="736" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_IP_CHANGE_REQUEST</text>
+      <line x1="1221" x2="1428" y1="742" y2="742" stroke="#804000" stroke-width="1"/>
+      <text x="1226" y="752" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SVMXC_ID</text>
+      <text x="1287" y="752" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1353" y="752" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R51.htm#1">
+      <rect x="1283" y="833" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient13" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1283" y="833" fill="url(#Gradient13)" width="239" height="53" stroke="#804000" stroke-width="1"/>
+      <text x="1402" y="844" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_IP_CHANGE_REQUEST_TEXT</text>
+      <line x1="1283" x2="1522" y1="850" y2="850" stroke="#804000" stroke-width="1"/>
+      <text x="1288" y="860" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SVMXC_ID</text>
+      <text x="1349" y="860" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1415" y="860" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R52.htm#1">
+      <rect x="1179" y="971" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient14" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1179" y="971" fill="url(#Gradient14)" width="162" height="53" stroke="#804000" stroke-width="1"/>
+      <text x="1260" y="982" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_IP_STAGING</text>
+      <line x1="1179" x2="1341" y1="988" y2="988" stroke="#804000" stroke-width="1"/>
+      <text x="1183" y="998" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SVMXC_ID</text>
+      <text x="1244" y="998" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1310" y="998" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R42.htm#1">
+      <rect x="798" y="248" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient15" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="798" y="248" fill="url(#Gradient15)" width="116" height="54" stroke="#804000" stroke-width="1"/>
+      <text x="856" y="259" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_LOCATION</text>
+      <line x1="798" x2="914" y1="265" y2="265" stroke="#804000" stroke-width="1"/>
+      <text x="803" y="275" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">ID</text>
+      <text x="821" y="275" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(30)</text>
+      <text x="887" y="275" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R43.htm#1">
+      <rect x="262" y="535" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient16" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="262" y="535" fill="url(#Gradient16)" width="235" height="71" stroke="#804000" stroke-width="1"/>
+      <text x="379" y="546" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_LOCATION_HISTORY</text>
+      <line x1="262" x2="497" y1="552" y2="552" stroke="#804000" stroke-width="1"/>
+      <text x="266" y="562" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">EQUIPMENT_ID</text>
+      <text x="266" y="575" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">LOCATION_ID</text>
+      <text x="266" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">TYPE_OF_LOCATION</text>
+      <text x="266" y="601" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">RECORD_END_DATE</text>
+      <text x="381" y="562" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="381" y="575" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(40)</text>
+      <text x="381" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(10)</text>
+      <text x="381" y="601" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">datetime</text>
+      <text x="447" y="562" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk2&gt;</text>
+      <text x="447" y="575" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk1&gt;</text>
+      <text x="447" y="588" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="447" y="601" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R36.htm#1">
+      <rect x="790" y="975" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient17" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="790" y="975" fill="url(#Gradient17)" width="256" height="66" stroke="#804000" stroke-width="1"/>
+      <text x="918" y="986" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_CUSTOMER_EXCLUSIONS</text>
+      <line x1="790" x2="1046" y1="992" y2="992" stroke="#804000" stroke-width="1"/>
+      <text x="795" y="1002" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">PLANT</text>
+      <text x="795" y="1015" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SAP_ACCOUNT_ID</text>
+      <text x="795" y="1028" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">RECORD_END_DATE</text>
+      <text x="907" y="1002" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(20)</text>
+      <text x="907" y="1015" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(50)</text>
+      <text x="907" y="1028" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">datetime</text>
+      <text x="973" y="1002" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="973" y="1015" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="973" y="1028" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R38.htm#1">
+      <rect x="15" y="758" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient18" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="15" y="758" fill="url(#Gradient18)" width="252" height="58" stroke="#804000" stroke-width="1"/>
+      <text x="141" y="769" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_DEVICE_UPGRADE</text>
+      <line x1="15" x2="267" y1="775" y2="775" stroke="#804000" stroke-width="1"/>
+      <text x="20" y="785" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">CONTRACT_NUMBER_FK</text>
+      <text x="20" y="798" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">EQUIPMENT_ID_FK</text>
+      <text x="20" y="811" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">ACTIVATION_DATETIME</text>
+      <text x="154" y="785" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(10)</text>
+      <text x="154" y="798" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(20)</text>
+      <text x="154" y="811" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">datetime2(6)</text>
+      <text x="222" y="785" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="222" y="798" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk&gt;</text>
+      <text x="222" y="811" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R41.htm#1">
+      <rect x="607" y="731" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient19" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="607" y="731" fill="url(#Gradient19)" width="351" height="72" stroke="#804000" stroke-width="1"/>
+      <text x="782" y="742" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_INSTALLED_PRODUCT_WORKER</text>
+      <line x1="607" x2="958" y1="748" y2="748" stroke="#804000" stroke-width="1"/>
+      <text x="612" y="758" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">INSTALLED_PRODUCT_FK_EQUIPMENT_ID</text>
+      <text x="612" y="771" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">LOCAL_ACCOUNT_ID_FK_ACCOUNT_ID</text>
+      <text x="612" y="784" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">WORKER_ROLE_FK_ROLE</text>
+      <text x="612" y="797" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">COUNTER</text>
+      <text x="836" y="758" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(22)</text>
+      <text x="836" y="771" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(12)</text>
+      <text x="836" y="784" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(2)</text>
+      <text x="836" y="797" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">numeric(6,0)</text>
+      <text x="903" y="758" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk1&gt;</text>
+      <text x="903" y="771" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk2&gt;</text>
+      <text x="903" y="784" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="903" y="797" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R55.htm#1">
+      <rect x="759" y="611" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient20" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="759" y="611" fill="url(#Gradient20)" width="223" height="56" stroke="#804000" stroke-width="1"/>
+      <text x="870" y="622" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_USER_STATUS_HISTORY</text>
+      <line x1="759" x2="982" y1="628" y2="628" stroke="#804000" stroke-width="1"/>
+      <text x="764" y="638" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">EQUIPMENT_ID_FK</text>
+      <text x="764" y="651" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">USER_STATUS</text>
+      <text x="764" y="664" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">RECORD_END_DATE</text>
+      <text x="876" y="638" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(22)</text>
+      <text x="876" y="651" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(5)</text>
+      <text x="876" y="664" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">datetime</text>
+      <text x="942" y="638" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk&gt;</text>
+      <text x="942" y="651" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="942" y="664" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R54.htm#1">
+      <rect x="50" y="216" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient21" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="50" y="216" fill="url(#Gradient21)" width="326" height="66" stroke="#804000" stroke-width="1"/>
+      <text x="213" y="227" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_UDI_REPOSITORY</text>
+      <line x1="50" x2="376" y1="233" y2="233" stroke="#804000" stroke-width="1"/>
+      <text x="55" y="243" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">UDI</text>
+      <text x="55" y="256" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">MATERIAL_ID_FK</text>
+      <text x="55" y="269" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">MANUFACTURER_FK_VENDOR_NUMBER</text>
+      <text x="266" y="243" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(100)</text>
+      <text x="266" y="256" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="266" y="269" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(10)</text>
+      <text x="338" y="243" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="338" y="256" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="338" y="269" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R45.htm#1">
+      <rect x="1563" y="829" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient22" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="1563" y="829" fill="url(#Gradient22)" width="212" height="53" stroke="#804000" stroke-width="1"/>
+      <text x="1669" y="840" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_SVMXC_DEVICE_HISTORY</text>
+      <line x1="1563" x2="1775" y1="846" y2="846" stroke="#804000" stroke-width="1"/>
+      <text x="1568" y="856" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SVMXC_ID</text>
+      <text x="1568" y="869" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PARENT_SVMXC_ID</text>
+      <text x="1677" y="856" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1677" y="869" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nvarchar(18)</text>
+      <text x="1743" y="856" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1743" y="869" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="PD-R34.htm#1">
+      <rect x="951" y="180" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient23" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#d28902"/>
+         </linearGradient>
+      </defs>
+      <rect x="951" y="180" fill="url(#Gradient23)" width="221" height="59" stroke="#804000" stroke-width="1"/>
+      <text x="1061" y="191" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_PIB_AS_MAINTAINED_CAPABILITIES</text>
+      <line x1="951" x2="1172" y1="197" y2="197" stroke="#804000" stroke-width="1"/>
+      <text x="956" y="207" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">EQUIPMENT_ID_FK</text>
+      <text x="956" y="220" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">CHARACTERISTIC</text>
+      <text x="956" y="233" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">CAPABILITY_VALUE</text>
+      <text x="1065" y="207" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(18)</text>
+      <text x="1065" y="220" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">bigint</text>
+      <text x="1065" y="233" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(30)</text>
+      <text x="1131" y="207" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk&gt;</text>
+      <text x="1131" y="220" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+      <text x="1131" y="233" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <rect x="446" y="16" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient24" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="446" y="16" fill="url(#Gradient24)" width="371" height="159" stroke="#804000" stroke-width="1"/>
+   <text x="631" y="29" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_ORP_SERVICE_TEAM</text>
+   <text x="631" y="39" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">(&lt;PM - Operational Customer Service (SPC)&gt;)</text>
+   <line x1="446" x2="817" y1="46" y2="46" stroke="#804000" stroke-width="1"/>
+   <text x="451" y="56" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SERVICE_TEAM</text>
+   <text x="540" y="56" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(80)</text>
+   <text x="606" y="56" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <line x1="446" x2="817" y1="63" y2="63" stroke="#804000" stroke-width="1"/>
+   <text x="450" y="82" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Work Centers from MP1 and Service Teams/Groups  from ServiceMax</text>
+   <text x="450" y="92" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start"> </text>
+   <text x="450" y="102" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">No Filters on source data</text>
+   <text x="450" y="112" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start"> </text>
+   <text x="450" y="122" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">MP1 CRHD</text>
+   <text x="450" y="132" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SVMXC SVMXC_Service_Group__c</text>
+   <image x="446" y="165" width="10" height="10" xlink:href="PD-R0_svg_Files/svg_bitmap1.png"/>
+   <polygon fill="#ffffff" points="383,927 383,1005 672,1005 672,936 663,927" stroke="#804000" stroke-width="1" stroke-linejoin="miter"/>
+   <line x1="672" x2="663" y1="936" y2="936" stroke="#804000" stroke-width="1"/>
+   <line x1="663" x2="663" y1="936" y2="927" stroke="#804000" stroke-width="1"/>
+   <text x="527" y="954" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Missing Table! PROXY_FOR_BUSINESS_PARTNER for </text>
+   <text x="527" y="964" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">PIB_INSTALLED_PRODUCT_BUSINESS_PARTNER FK</text>
+   <text x="527" y="974" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Missing Table! PIB_REQ2_RES_PARTNER_FUNCTION for </text>
+   <text x="527" y="984" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">PIB_INSTALLED_PRODUCT_BUSINESS_PARTNER FK</text>
+   <polygon fill="#ffffff" points="789,1044 789,1095 1051,1095 1051,1053 1042,1044" stroke="#804000" stroke-width="1" stroke-linejoin="miter"/>
+   <line x1="1051" x2="1042" y1="1053" y2="1053" stroke="#804000" stroke-width="1"/>
+   <line x1="1042" x2="1042" y1="1053" y2="1044" stroke="#804000" stroke-width="1"/>
+   <text x="920" y="1072" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">Missing Table! PROXY_FOR_BUSINESS_PARTNER for SAP_ACCOUNT_ID Fk</text>
+   <image x="1101" y="785" width="43" height="43" xlink:href="PD-R0_svg_Files/svg_bitmap2.png"/>
+   <text x="1122" y="841" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">MappingImport_1</text>
+   <rect x="786" y="879" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient25" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="786" y="879" fill="url(#Gradient25)" width="223" height="54" stroke="#804000" stroke-width="1"/>
+   <text x="897" y="892" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_IDM_IDENTITY_MANAGEMENT</text>
+   <text x="897" y="902" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">(&lt;PM - Operational Customer Service (SPC)&gt;)</text>
+   <line x1="786" x2="1009" y1="909" y2="909" stroke="#804000" stroke-width="1"/>
+   <text x="790" y="919" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">ACCOUNT_ID</text>
+   <text x="864" y="919" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">nvarchar(80)</text>
+   <text x="930" y="919" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <image x="786" y="923" width="10" height="10" xlink:href="PD-R0_svg_Files/svg_bitmap1.png"/>
+   <rect x="1797" y="334" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient26" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="1797" y="334" fill="url(#Gradient26)" width="224" height="185" stroke="#804000" stroke-width="1"/>
+   <text x="1909" y="347" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">C_ORP_SVMXC_TECHNICIAN</text>
+   <text x="1909" y="357" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">(&lt;PM - Operational Customer Service (SPC)&gt;)</text>
+   <line x1="1797" x2="2021" y1="364" y2="364" stroke="#804000" stroke-width="1"/>
+   <text x="1802" y="374" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SVMXC_ID</text>
+   <text x="1863" y="374" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nvarchar(18)</text>
+   <text x="1929" y="374" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;ak&gt;</text>
+   <line x1="1797" x2="2021" y1="381" y2="381" stroke="#804000" stroke-width="1"/>
+   <text x="1801" y="408" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ServiceMax Technician table</text>
+   <text x="1801" y="418" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start"> </text>
+   <text x="1801" y="428" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SVMXC__Service_Group_Members__c</text>
+   <text x="1801" y="438" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start"> </text>
+   <text x="1801" y="448" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Filter on RecordType for Technicians</text>
+   <text x="1801" y="458" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start"> </text>
+   <text x="1801" y="468" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">All rows loaded forTechnicians</text>
+   <text x="1801" y="478" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start"> </text>
+   <text x="1801" y="488" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Notes: The table contains   technician records. Some technicians do </text>
+   <text x="1801" y="498" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">not have a User accoun</text>
+   <image x="1797" y="509" width="10" height="10" xlink:href="PD-R0_svg_Files/svg_bitmap1.png"/>
+   <polygon fill="#0000ff" points="1779,330 1782,319 1774,313 1785,313 1788,301 1791,313 1802,313 1794,319 1797,330 1788,324 1779,330" stroke="#804000" stroke-width="1" stroke-linejoin="miter"/>
+</svg>
